@@ -1,5 +1,5 @@
 # Task 1
 
 - na początek utworzyłem ten sandbox aby w wygodny sposób przetestować swój skrypt
-- po 1 testach dokonałem drobnej zmiany w skrypcie aby klasa przycisku była bardziej specyficzna
-- Gotowy działąjący skrypt przetestowałęm ostatecznie potwierdzając jego działanie
+- po pierwszych testach na violetmonkey dokonałem drobnej zmiany w skrypcie aby klasa przycisku była bardziej specyficzna
+- Gotowy działający skrypt przetestowałem ostatecznie potwierdzając jego działanie
