@@ -1,10 +1,7 @@
 // ==UserScript==
-// @name         Bloomreach Recommendations Injector (Wojas) - Static Data
-// @namespace    vm-wojas-bloomreach
-// @version      1.1.0
-// @description  Injects up to 4 product recommendations into .box-recomendation on wojas.pl/meskie using pasted static data
-// @match        https://wojas.pl/meskie
-// @grant        none
+// @name        Bloomreach Recommendations Injector (Wojas)
+// @match       https://wojas.pl/meskie
+// @run-at      document-idle
 // ==/UserScript==
 
 (function () {

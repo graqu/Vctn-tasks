@@ -1,11 +1,6 @@
 // ==UserScript==
 // @name        Wojas A/B Test
-// @namespace   http://tampermonkey.net/
-// @version     1.0
-// @description Test A/B koloru przycisku "Dodaj do koszyka" na zielony.
-// @author      Jacek W
 // @match       https://wojas.pl/*
-// @grant       none
 // @run-at      document-idle
 // ==/UserScript==
 
